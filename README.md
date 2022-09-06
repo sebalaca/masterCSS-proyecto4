@@ -1,2 +1,6 @@
-# MasterCSS - Proyecto nº 4
-Proyecto 4 - de Flexbox a CSS Grid Layout
+# MasterCSS - Proyecto nº 3
+
+Maquetación web flexible con HTML, CSS, Flexbox y Responsive
+
+## Deployed on Netlify
+https://mastercss-proyecto3.netlify.app
